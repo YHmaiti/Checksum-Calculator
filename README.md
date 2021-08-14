@@ -14,7 +14,7 @@ To Compile:
 To Execute: 
  c -> ./pa02 inputfilename.txt sizechosen
  
-=> inputFilename.txt is the text file and sizechosen is the checksum size in bits
+=> inputFilename.txt is the text file and sizechosen is the checksum size in bits that the user can decide as wished
  (Options are: 8, 16, & 32)
 
 => All input files are 8 bit ASCII 
